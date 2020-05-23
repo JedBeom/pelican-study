@@ -1,5 +1,7 @@
-# python-letsstudy
+# pelican-study
 
-깃 공부겸사겸사
+네 명이서 공부해보기
 
-파인애플 먹고 싶다 
+## 진행 중인 것
+
+- [위키독스 점프 투 파이썬](https://wikidocs.net/book/1)
